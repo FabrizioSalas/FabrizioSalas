@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/FabrizioSalas/FabrizioSalas/main/assets/wave.gif" width="35" alt="waving hand" /> I'm Fabrizio Salas</h1> <h3 align="center">
+<h1 align="center">Hi there! I'm Fabrizio Salas</h1> <img src="https://raw.githubusercontent.com/FabrizioSalas/FabrizioSalas/main/assets/wave.gif" width="35" alt="waving hand" /> <h3 align="center">
 
 <img src="https://raw.githubusercontent.com/FabrizioSalas/FabrizioSalas/main/assets/rocket.gif" width="28" alt="rocket" /> Statistics & Informatics Student focused on Data Science and Machine Learning from Peru <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30e/512.gif" alt="Earth" width="26" style="vertical-align: middle; display: inline-block;" />
 </h3>
