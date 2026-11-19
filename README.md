@@ -15,9 +15,9 @@
 
 ---
 
-<img align="right" width="360" alt="Developer animation" src="https://raw.githubusercontent.com/FabrizioSalas/FabrizioSalas/main/assets/developer.gif" />
-
 ## 👨‍💻 About Me
+
+<img align="right" width="360" alt="Developer animation" src="https://raw.githubusercontent.com/FabrizioSalas/FabrizioSalas/main/assets/developer.gif" />
 
 - 🔭 Statistics and Informatics student at **UNALM** (Peru), currently in my 8th semester and **looking for pre-professional internships** in data science and analytics.
 - ⚡ Specialized in **predictive modeling, computer vision and spatial analysis** with **Python, R and SQL**.
