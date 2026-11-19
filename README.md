@@ -1,6 +1,7 @@
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/FabrizioSalas/FabrizioSalas/main/assets/wave.gif" width="35" alt="waving hand" /> I'm Fabrizio Salas</h1> <h3 align="center">
 
-<img src="https://raw.githubusercontent.com/FabrizioSalas/FabrizioSalas/main/assets/rocket.gif" width="28" alt="rocket" /> Statistics & Informatics Student focused on Data Science and Machine Learning from Peru 🌎</h3>
+<img src="https://raw.githubusercontent.com/FabrizioSalas/FabrizioSalas/main/assets/rocket.gif" width="28" alt="rocket" /> Statistics & Informatics Student focused on Data Science and Machine Learning from Peru <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30e/512.gif" alt="Earth" width="26" style="vertical-align: middle; display: inline-block;" />
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FabrizioSalas&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -17,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="360" alt="Developer animation" src="https://raw.githubusercontent.com/FabrizioSalas/FabrizioSalas/main/assets/developer.gif" />
+<img align="right" width="360" alt="Developer animation" src="https://raw.githubusercontent.com/FabrizioSalas/FabrizioSalas/main/assets/coding.gif" tyle="border-radius: 28px; margin-left: 32px; margin-bottom: 32px;" />
 
 - 🔭 Statistics and Informatics student at **UNALM** (Peru), currently in my 8th semester and **looking for pre-professional internships** in data science and analytics.
 - ⚡ Specialized in **predictive modeling, computer vision and spatial analysis** with **Python, R and SQL**.
